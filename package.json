@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "lodash": "^4.17.21",
+    "my-utils": "2.0.0",
     "nodemon": "0.0.0-development"
   }
 }
